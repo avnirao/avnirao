@@ -4,7 +4,7 @@
 My name is Avni _(uh-v-nee)_, a Computer Science major at the University of Washington.  
 
 
-I enjoy working in Java, React, and HTML/CSS/JS, Flutter, but I love learning new languages/stacks. 
+I enjoy working in Java, React, HTML/CSS/JS, and Flutter, but I love learning new languages/stacks. 
 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/avnirao/) or visit my [website](https://avnirao.github.io) 💌✨
