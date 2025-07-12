@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-My name is Avni _(uh-v-nee)_, a Computer Science major at the University of Washington.  
+My name is Avni, a Computer Science major at the University of Washington.  
 
 
 I enjoy working in Java, React, HTML/CSS/JS, and Flutter, but I love learning new languages/stacks. 
